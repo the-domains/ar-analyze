@@ -1,0 +1,14 @@
+name: AR Analyze
+layout_spectrum: 0.17985356988058498
+typography_spectrum: 0.3231247816485474
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.44375316255844455
+  lightness: 0.4423944903600179
+  saturation: 0.8116357584185067
+  rhythmicContrast: 0.1313344009642935
