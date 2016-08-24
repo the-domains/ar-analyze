@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[AR Analyze]]></title>
         <description><![CDATA[AR Analyze]]></description>
-        <link>https://thegrid.ai/ar-analyze/</link>
+        <link>http://aranalyze.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 23:57:42 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/ar-analyze/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Aug 2016 23:41:27 GMT</lastBuildDate>
+        <atom:link href="http://aranalyze.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HoloLens' 24-core chip makes vivid AR possible]]></title>
+            <description><![CDATA[<article><h1>HoloLens' 24-core chip makes vivid AR possible</h1><p>The 28-nanometer process "Tensilica" chip, built by TSMC, has 65 million logic gates, 8MB of ultra-fast static RAM (SRAM) and 1GB of DDR3 RAM, all crammed into a 12mm x 12mm (half-inch square) package. It's designed to process input from the inertial chip, environment cameras, depth camera and other sensors.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/26a7994160237afef20aaac327389ec9/noop?input=https%3A%2F%2Fs.aolcdn.com%2Fdims5%2Famp%3A33e3150dd83d5589e41cdbe3ece7df80afe56efb%2Fq%3A100%2F%3Furl%3Dhttp%253A%252F%252Fo.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F758b22644acc93019396fe04373c4ab2%252F204235692%252Fhololens-parts-2016-08-23-01.jpg"></article>]]></description>
+            <link>https://www.engadget.com/2016/08/23/hololens-24-core-chip-makes-vivid-ar-possible/</link>
+            <guid isPermaLink="false">7cfc0b67-cd7b-4f4c-9955-8657cc3c81e5</guid>
+            <pubDate>Wed, 24 Aug 2016 23:41:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Microsoft HoloLens | Japan Airlines at Worldwide Partner Conference 2016]]></title>
             <description><![CDATA[<article><h1>Microsoft HoloLens | Japan Airlines at Worldwide Partner Conference 2016</h1><p>See how Japan Airlines will transform the way airline mechanics are trained with a mixed reality app built for Microsoft HoloLens. This is just the beginning of what JAL expects to achieve with HoloLens. Learn more about Microsoft HoloLens at http://bit.ly/29tiqCm.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4362b4d84df31a12ed6e0d0ad3da3d9d/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FGjZgI2oDcwM%2Fmaxresdefault.jpg"></article>]]></description>
